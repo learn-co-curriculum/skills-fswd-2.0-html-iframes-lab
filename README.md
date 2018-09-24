@@ -15,17 +15,18 @@ Work through the challenges below one at a time, writing your solutions in
 
 #### 1) Add an `iframe` tag with no attributes
 
-#### 2) Add an `iframe` tag
+#### 2) Add an `iframe` tag with a `src` attribute
 
-#### 3) Add an `iframe` tag
+#### 3) Add an `iframe` tag with a different `src` attribute
 
-#### 4) Add an `iframe` tag
+#### 4) Add an `iframe` tag with a `src` attribute and a `height` attribute
 
 #### 5) etc....
 
+
 ## Conclusion
 
-Summarize the concept, any important syntax, rules or exceptions that were practiced in this lab.
+Iframe tags allow you to leverage third party search bars, map functionality, and many more useful tools. Keep playing around with iframes and see just how useful they can be!
 
 ## References
 
